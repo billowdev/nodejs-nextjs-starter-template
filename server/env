@@ -1,0 +1,13 @@
+PORT=5000
+JWT_SECRET=YourJWTSecret
+NODE_ENV=development
+CLIENT_URL=localhost
+
+DB_USERNAME= 
+DB_PASSWORD= 
+DB_DATABASE_DEVELOPMENT= node_fastify_db
+DB_DATABASE_PRODUCTION= node_fastify_db_production
+DB_DATABASE_TEST= node_fastify_db_test
+DB_HOST=localhost
+DB_DIALECT=postgres | mysql | your dialect
+
