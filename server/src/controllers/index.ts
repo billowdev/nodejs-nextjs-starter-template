@@ -1,5 +1,5 @@
-import authHandler from "./auth.controller";
-import usersHandler from "./user.controller";
-import articlesHandler from "./article.controller";
+import authController from "./auth.controller";
+import usersController from "./user.controller";
+import articlesController from "./article.controller";
 
-export { authHandler, usersHandler, articlesHandler };
+export { authController, usersController, articlesController };
